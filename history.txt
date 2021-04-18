@@ -1,5 +1,2 @@
 ------------ Historial de commits ------------
-sáb abr 17 19:11:20 CEST 2021
-sáb abr 17 19:14:02 CEST 2021
-dom abr 18 09:21:47 CEST 2021
-dom abr 18 09:22:34 CEST 2021
+
