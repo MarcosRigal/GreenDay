@@ -8,9 +8,9 @@ This script is very basic it just does a push. For it to work properly we must m
 
 2. A text editor will open in and we will write the this:
 
-         00 0-23/11 * * * USERNAME /SCRIPT/PATH
+         00 0-23/1 * * * bash /SCRIPT/PATH
 
-3. Remember to change USERNAME to your username and / SCRIPT / PATH to the path where the script you want to program is located
+3. Remember to change /SCRIPT/PATH to the path where the script you want to program is located
 
 
 And that's all, enjoy your automatic commits :)
