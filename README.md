@@ -1,7 +1,7 @@
 ![GreenDay](https://i.imgur.com/68eLCod.png)
 
 # How to use it
-This script is very basic it just does a push. For it to work properly we must make use of a task scheduler. In my case I have used crontab to run every 11h on a server. To do this, you must follow the following steps:
+This script is very basic it just does a push. For it to work properly we must make use of a task scheduler. In my case I have used crontab to run every hour on my laptop. To do this, you must follow the following steps:
 1. Open a terminal and enter the following command:
 
          crontab -e
