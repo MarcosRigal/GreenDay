@@ -1,4 +1,6 @@
-![GreenDay](https://i.imgur.com/68eLCod.png)
+<div align="center">
+    <img width="100%" src="https://i.imgur.com/68eLCod.png" alt="GreenDay">
+</div>
 
 # How to use it
 This script is very basic it just does a push. For it to work properly we must make use of a task scheduler. In my case I have used crontab to run every hour on my laptop. To do this, you must follow the following steps:
